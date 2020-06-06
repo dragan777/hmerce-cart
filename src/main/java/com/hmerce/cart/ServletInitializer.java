@@ -1,4 +1,4 @@
-package com.hmerce.hmercecart;
+package com.hmerce.cart;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

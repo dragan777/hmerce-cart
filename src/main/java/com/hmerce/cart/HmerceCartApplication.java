@@ -1,4 +1,4 @@
-package com.hmerce.hmercecart;
+package com.hmerce.cart;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
